@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "name": "Online Haçlı Kaynakları",
+      "preview": "https://online-hacli-kaynaklari.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/online-hacli-kaynaklari",
+      "last": "ted2xmen/online-hacli-kaynaklari",
+      "tech": "React, TailwindCSS",
+      "description": "Haçlı çalışmaları alanındaki birincil kaynaklara hızlı ulaşımı amaç edinmiş bağımsız bir projedir."
+    },
+    {
+      "name": "Eleventree",
+      "preview": "https://eleventree.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/eleventree",
+      "last": "ted2xmen/eleventree",
+      "tech": "Eleventy, TailwindCSS",
+      "description": "Bookmark Gallery and Portfolio. An Alternative for Developers"
+    },
+    {
+      "name": "Ghibli Catalog",
+      "preview": "https://quiet-sable-ff6a21.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/react-zustand-materialui",
+      "last": "ted2xmen/react-zustand-materialui",
+      "tech": "React, Material UI, Zustand, FramerMotion",
+      "description": "Ghibli API"
+    },
+    {
+      "name": "React Movie App",
+      "repository": "https://github.com/Ted2xmen/react-movie-app",
+      "preview": "https://react-movie-app-roan.vercel.app/",
+      "last": "ted2xmen/react-movie-app",
+      "tech": "React, RouterV6, TailwindCSS",
+      "description": "TMDB API"
+    },
+    {
+      "name": "React Gym Rat",
+      "preview": "https://gym-rat.vercel.app/",
+      "repository": "https://github.com/Ted2xmen/gym-rat",
+      "last": "ted2xmen/gym-rat",
+      "tech": "React, TailwindCSS",
+      "description": "ExerciseDB API"
+    },
+    {
+      "name": "Pure Notes",
+      "preview": "https://ted2xmen.github.io/pure-notes/",
+      "repository": "https://github.com/Ted2xmen/pure-notes",
+      "last": "ted2xmen/pure-notes",
+      "tech": "Javascript",
+      "description": ""
+    },
+    {
+      "name": "Budget Planner",
+      "preview": "https://ted-budget-app.netlify.app/",
+      "repository": "https://github.com/Ted2xmen/react-budget-planner",
+      "last": "Ted2xmen/react-budget-planner",
+      "tech": "React",
+      "description": ""
+    },
+    {
+      "name": "Kütüphaneden",
+      "preview": "https://kutuphaneden.vercel.app/",
+      "repository": "https://github.com/Ted2xmen/kutuphaneden",
+      "last": "ted2xmen/kutuphaneden",
+      "tech": "Javascript",
+      "description": "Yazılıma Yeni Başlayanlar için Okuma Önerileri / Kaynaklar"
+    },
+    {
+      "name": "KRONIKA",
+      "preview": "https://kronika-vue2.vercel.app/#/",
+      "repository": "https://github.com/Ted2xmen/kronika-firebase",
+      "last": "ted2xmen/kronika-firebase",
+      "tech": "Vue 3, Firebase, Bootstrap",
+      "description": "Osmanlı Tarihi Kaynakları"
+    },
+    {
+      "name": "Last FM Scrapper",
+      "preview": "https://github.com/Ted2xmen/lastfm-scraper",
+      "repository": "https://github.com/Ted2xmen/lastfm-scraper",
+      "last": "ted2xmen/lastfm-scraper",
+      "tech": "NodeJS",
+      "description": "Node + Express + Cheerio Web Scrapper"
+    },
+    {
+      "name": "Covid Tracker",
+      "preview": "https://track19.vercel.app/",
+      "last": "ted2xmen/covid-19-tracker",
+      "repository": "https://github.com/Ted2xmen/covid-19-tracker",
+      "tech": "Vue 3, Bootstrap",
+      "description": ""
+    }
+  ]
+}

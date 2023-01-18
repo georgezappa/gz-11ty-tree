@@ -1,0 +1,35 @@
+{
+  "name": "eleventree",
+  "version": "1.0.0",
+  "description": "Linktree Alternative",
+  "author": "Ted2xmen",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm-run-all -p dev:*",
+    "build": "npx @11ty/eleventy && tailwindcss -i _site/css/styles.sass -o dist/css/styles.css",
+    "dev:11ty": "eleventy --serve --quiet",
+    "dev:css": "tailwindcss -i _site/css/styles.sass -o dist/css/styles.css --watch --postcss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ted2xmen/eleventree.git"
+  },
+  "homepage": "https://github.com/Ted2xmen/eleventree",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "autoprefixer": "^10.4.0",
+    "dayjs": "^1.10.7",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.0.12"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.0",
+    "@11ty/eleventy": "^1.0.0",
+    "autoprefixer": "^10.4.0",
+    "dayjs": "^1.10.7",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.0.12"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "homelinks": [
+    {
+      "name": "Kişisel Web Sitem",
+      "url": "https://ted2xmen.dev",
+      "category": "site",
+      "tag": "personal",
+      "icon": "fa-bookmark",
+      "description": "ted2xmen.dev"
+    },
+    {
+      "name": "Türkçe Redux Toolkit Notları",
+      "url": "https://github.com/Ted2xmen/turkce-redux-toolkit-notlari",
+      "category": "notes",
+      "tag": "React, Redux Toolkit",
+      "icon": "fa-bookmark",
+      "description": "Redux TK öğrenirken aldığım notlar"
+    }
+
+   
+    
+  ]
+}

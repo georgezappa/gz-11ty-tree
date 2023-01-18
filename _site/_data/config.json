@@ -1,0 +1,27 @@
+{
+  "title": "ELEVENTREE || Your Bookmark List",
+  "keywords": "portfolio, cv, bookmarks, personal, blog",
+  "description": "Linktree Alternative - build with Eleventy and TailwindCSS",
+  "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
+  "card": "image.gif",
+  "url": "https://eleventree.netlify.app/",
+  "twitter": "https://twitter.com/Ted2xmen",
+  "ua": "G-BSHFXNTVPB",
+  "repository": "https://github.com/Ted2xmen/eleventree",
+
+  "personal": [
+    {
+      "fullname": "Tuğrul Erdem Dogru",
+      "bio": "Frontend Developer. Mostly Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore minus quae cum placeat eum et amet sunt quidem aliquid voluptate. Mostly React, Vue and TailwindCSS. Voluptatibus saepe accusamus architecto, tempora sapiente doloremque aliquam adipisci dolor pariatur quod nihil magni, eos ducimus.",
+      "twitter": "ted2xmen",
+      "hireable": true,
+      "work": "freelancer",
+      "github": "https://github.com/Ted2xmen",
+      "cv": "www.google.com",
+      "blog": "https://ted2xmennew.vercel.app/",
+      "avatar": "https://avatars.githubusercontent.com/u/20682437?v=4",
+      "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
+      "stack": ["React", "NextJS", "Tailwind", "Firebase"]
+        }
+  ]
+}

@@ -1,0 +1,23 @@
+<div class="grid grid-rows-1 sm:grid-rows-1 md:grid-rows-1 lg:grid-rows-1">
+<ul>{% for item in projects.projects  %}
+    <li class="list-none p-1 ">
+        <div
+            class="block no-underline h-full p-4 border custom-border-w-hover">
+            <h4 class="custom-link-title">
+                <i class="fa-solid fa-code mr-2 text-lg text-green-500"></i>
+            <a href="{{item.repository}}" target="_blank" rel="noopener noreferrer"> {{item.name}} </a>
+            </h4>
+            <p class="mt-1 custom-description">{{item.description}}
+            <img class="mt-4" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/{{item.last}}"> </p>
+            <div class="flex items-center justify-end gap-6 mt-2">
+              <p class="small-gradient">
+                <i class="fa-solid fa-terminal"></i>  {{item.tech}} </p>
+                    <a href="{{item.preview}}" target="_blank"
+            rel="noopener noreferrer" ><i class="text-green-400 text-lg font-medium fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <a href="{{item.repository}}" target="_blank"
+            rel="noopener noreferrer"><i class="text-green-400 text-lg font-medium fa-brands fa-github"></i></a>
+            </div>
+        </div>
+    </li> {% endfor %}
+</ul>
+</div>
